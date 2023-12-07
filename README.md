@@ -1,4 +1,4 @@
-#DliveBot: Bot for auto-following Dlive.tv top streamers based on the number of followers they have.
+# DliveBot: Bot for auto-following Dlive.tv top streamers based on the number of followers they have.
 
 *******************************************************************************************
 
